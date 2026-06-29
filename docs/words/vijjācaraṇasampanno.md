@@ -23,16 +23,10 @@ nav_order: 1
     - S i 168,9* = [SN7.9 #3.1](https://suttacentral.net/sn7.9/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin#3.1); = Sn 462 = [Snp 3.4 #14.1](https://suttacentral.net/snp3.4/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin#14.1)
         - *Mā jātiṁ puccha caraṇañca puccha*
         - Don’t ask about birth, ask about conduct;
-    - Ja III 236,19*
-    - Ja IV 332,5*
-    - Ap 45,19
-    - Peṭ 254,29
-    - Mil 24,21*
-    - Vism 202,30
+    - Also at: Ja III 236,19*; Ja IV 332,5*; Ap 45,19; Peṭ 254,29; Mil 24,21*; Vism 202,30
 - **PTS PED**
     - Def 3 - neuter name: acting, behaviour, good conduct, frequently in combination with *vijjā*,
-    - A ii163 = ?
-    - v.327; Dh 144; Vism 202 (in detail); PvA 1
+    - At: A ii163 = ?; v.327; Dh 144; Vism 202 (in detail); PvA 1
     - D iii 97 = [DN 27 #32.4](https://suttacentral.net/dn27/en/sujato?lang=en&layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin#32.4) = Sanaṅkumāra's verses
     - D iii 156; 
     - Sn 410, 462 (idem Cone), 536; 
@@ -56,7 +50,7 @@ nav_order: 1
 | Woodward & Hare 1922-36 | perfect in knowledge and conduct |
 | T. W. & C. A. F. Rhyd Davids 1899-1921 | abounding in knowledge and goodness |
 | Monier-Williams 1899 (for vidyācaraṇasampanna) | perfect in knowledge and of good moral conduct |
-| Me | accomplished in knowledge and conduct |
+| Selected | accomplished in knowledge and conduct |
 
 In DN3, the brahmin Ambaṭṭha asks the Buddha to explain what is this knowledge and conduct ([DN3#2.1.1](https://suttacentral.now/dn3/en/sujato#2.1.1); translation Bhikkhu Sujato):
 
