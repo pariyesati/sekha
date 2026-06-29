@@ -2,7 +2,7 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
-#color_scheme: raspibolt-dark.scss
+color_scheme: sekha-dark.scss
 
 title: Sekha
 tagline: "Pāḷi"
