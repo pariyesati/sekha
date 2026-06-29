@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Lorem ipsum</title>
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/docs/vijjācaraṇasampanno.md">vijjācaraṇasampanno</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Words</h1>
-				<p>Lorem <em>ipsum</em> lorem ipsum. <a href="/about.md">About</a></p>
+---
+layout: default
+title: Sekha
+---
+
+<div class="blurb">
+	<h1>Lorem ipsum 1</h1>
+	<p>Lorem ipsum 2. <a href="/about">Lorem ipsum 3...</a></p>
+</div><!-- /.blurb -->
