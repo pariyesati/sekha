@@ -1,10 +1,12 @@
 ---
-layout: home
 title: Home
-nav_enabled: true
+layout: home
+nav_order: 1
+description: "Sekha's homepage"
+permalink: /
 ---
 
-## Sekha
+# Sekha's notes
 
 Lorem ipsum
 
