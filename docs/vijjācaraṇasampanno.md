@@ -1,8 +1,6 @@
 ---
-title: Sunday, Jun 28, 2026 at 9:52 AM
-created_at: 2026-06-28T01:52:18.077Z
-updated_at: 2026-06-28T12:22:25.903Z
-uuid: 2693c96b-6ced-43c8-9c3a-fce83664a583
+layout: default
+title: vijjācaraṇasampanno
 ---
 
 # vijjācaraṇasampanno
