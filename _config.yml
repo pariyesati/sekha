@@ -9,5 +9,5 @@ tagline: "Pāḷi"
 description: "Notes of a seeker"
 type: website
 
-# enable theme for local usage
-#theme: "just-the-docs"
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/favicon.ico"
