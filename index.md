@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sekha
-nav_order: 1
+title: Home
+nav_enabled: true
 ---
 
 ## Sekha
