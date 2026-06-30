@@ -4,7 +4,7 @@ parent: Pāḷi word analysis
 nav_order: 4
 ---
 
-# loke
+# *loke*
 {: .no_toc }
 
 ## Table of contents
