@@ -4,7 +4,7 @@ parent: Pāḷi word analysis
 nav_order: 8
 ---
 
-# vijjācaraṇasampanno
+# *vijjācaraṇasampanno*
 {: .no_toc }
 
 ## Table of contents
@@ -16,7 +16,6 @@ nav_order: 8
 ---
 
 ## caraṇa
-
 - Cone
     - Def. 2.iii - neuter name: behaviour, conduct; esp. good and moral conduct
     - M i 358,4 = [MN 53 #23.1](https://suttacentral.net/mn53/en/sujato?lang=en&layout=linebyline&reference=main%2Cpts&notes=none&highlight=false&script=latin#23.1); commented at Ps III 33,5
@@ -33,7 +32,6 @@ nav_order: 8
     - Miln 24 (idem Cone)
 
 ## sampanna
-
 - **Cone**: Not included yet
 - **PTS PED**
     - past participle of *sampajjati*
@@ -41,6 +39,8 @@ nav_order: 8
 
 - **Monier Williams**
     - *vidyā—caraṇa-sampanna* mfn. perfect in knowledge and of good moral conduct, *Kāraṇḍ*.
+
+## Translators
 
 | Translator | Translation |
 | --- | --- |
