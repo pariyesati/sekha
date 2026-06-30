@@ -3,9 +3,8 @@ title: idha
 parent: Pāḷi word analysis
 nav_order: 1
 ---
-{: .lh-tight }
 
-# idha
+# *idha*
 {: .no_toc }
 
 ## Table of contents
