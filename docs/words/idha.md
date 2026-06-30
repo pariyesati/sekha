@@ -3,6 +3,7 @@ title: idha
 parent: Pāḷi word analysis
 nav_order: 1
 ---
+{: .lh-tight }
 
 # idha
 {: .no_toc }
