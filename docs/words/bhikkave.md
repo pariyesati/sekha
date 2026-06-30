@@ -1,10 +1,10 @@
 ---
-title: bhikkave
+title: bhikkhave
 parent: Pāḷi word analysis
 nav_order: 2
 ---
 
-# bhikkave
+# bhikkhave
 {: .no_toc }
 
 ## Table of contents
