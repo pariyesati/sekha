@@ -1,7 +1,7 @@
 ---
 title: vijjācaraṇasampanno
 parent: Pāḷi word analysis
-nav_order: 1
+nav_order: 8
 ---
 
 # vijjācaraṇasampanno
