@@ -15,10 +15,6 @@ nav_order: 1
 {:toc}
 
 ---
-
-
-# *idha*
-
 ## Dictionaries
 
 ### PTS Pāli-English Dictionary
@@ -32,6 +28,7 @@ nav_order: 1
     - now
     - (Especially in this world or present existence)
 - On different meanings of *idha* see DhsA 348.
+{: .lh-tight }
 
 ### Margaret Cone's A Dictionary of Pāli
 
