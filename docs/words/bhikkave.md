@@ -4,7 +4,7 @@ parent: Pāḷi word analysis
 nav_order: 2
 ---
 
-# bhikkhave
+# *bhikkhave*
 {: .no_toc }
 
 ## Table of contents
