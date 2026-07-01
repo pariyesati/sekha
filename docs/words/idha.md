@@ -14,10 +14,19 @@ nav_order: 1
 {:toc}
 
 ---
+
+## Translations
+| Translator | Translation |
+| --- | --- |
+| Sujato 2018 | it's when |
+| Ṭhānissaro 2014 | there is the case where |
+| Bodhi 2012 | here |
+| Woodward & Hare 1922-36 | in this case |
+| T. W. & C. A. F. Rhyd Davids 1899-1921 | suppose |
+
 ## Dictionaries
 
 ### PTS Pāli-English Dictionary
-
 - Indeclinable
 - Sanskrit = *iha*
 - Meaning = 
@@ -27,10 +36,8 @@ nav_order: 1
     - now
     - (Especially in this world or present existence)
 - On different meanings of *idha* see DhsA 348.
-{: .lh-tight }
 
 ### Margaret Cone's A Dictionary of Pāli
-
 - Indeclinable
 - Sanskrit = *iha*
 - Meaning =
@@ -42,7 +49,6 @@ nav_order: 1
     - in this teaching, in this system
 
 ### Monier Monier-Williams's A Sanskrit Dictionary
-
 - Sanskrit *= ihá*
 - indeclinable, from pronominal base 3.i
 - Meaning:
@@ -52,14 +58,3 @@ nav_order: 1
     - in this book or system; 
     - in this case;
     - now, at this time
-
-## Translators
-
-| Translator | Translation |
-| --- | --- |
-| Sujato 2018 | it's when |
-| Ṭhānissaro 2014 | there is the case where |
-| Bodhi 2012 | here |
-| Woodward & Hare 1922-36 | in this case |
-| T. W. & C. A. F. Rhyd Davids 1899-1921 | suppose |
-| Here | here |
